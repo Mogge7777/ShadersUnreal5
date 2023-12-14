@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/_MyStuff/Blue_to_green.uasset",
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RU/XW9TUNGKF9YONRY3FOQS43.uasset",
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/QuadrapedCreatures/MountainDragon/Materials/ShaderDragon.uasset",
+				"C:/Users/morgan.ohlstrom/Documents/Unreal Projects/TestProjectShaders/Content/_MyStuff/Vertex_Normal.uasset"
+			]
+		}
+	]
+}
